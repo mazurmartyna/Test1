@@ -1,0 +1,20 @@
+{
+    "nazwa_portalu": "Facebook",
+    "rok_powstania": 2004,
+    "aplikacja_pochodna": "Messenger",
+    "pozwala_na_dzwonienie": true,
+    "ilosc_uzytkownikow": 3000000,
+    "zalozyciele": [
+        "Mark Zuckerberg",
+        "Eduardo Saverin",
+        "Andrew McCollum",
+        "Dustin Moskovitz",
+        "Chris Hughes"
+    ],
+    "uslugi": 
+    {   "ogloszenia" : true,
+        "przynaleznosc_do_grupy":true,
+        "komunikowanie_sie": true
+    },
+    "przychody_w_milionach": 86.0
+}
