@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<portale_spolecznosciowe>
+    <portal>
+        <nazwa jednostka="brak" źródło="oficjalna strona">Facebook</nazwa>
+        <rok_powstania jednostka="rok" źródło="Wikipedia">2004</rok_powstania>
+        <typ jednostka="brak" źródło="oficjalna strona">Ogólny</typ>
+        <uzytkownicy jednostka="miliony" źródło="Statista">2900000000</uzytkownicy>
+    </portal>
+    <portal>
+        <nazwa jednostka="brak" źródło="oficjalna strona">Twitter</nazwa>
+        <rok_powstania jednostka="rok" źródło="Wikipedia">2006</rok_powstania>
+        <typ jednostka="brak" źródło="oficjalna strona">Microblogging</typ>
+        <uzytkownicy jednostka="miliony" źródło="Statista">450000000</uzytkownicy>
+    </portal>
+    <portal>
+        <nazwa jednostka="brak" źródło="oficjalna strona">Instagram</nazwa>
+        <rok_powstania jednostka="rok" źródło="Wikipedia">2010</rok_powstania>
+        <typ jednostka="brak" źródło="oficjalna strona">Fotografia</typ>
+        <uzytkownicy jednostka="miliony" źródło="Statista">1400000000</uzytkownicy>
+    </portal>
+    <portal>
+        <nazwa jednostka="brak" źródło="oficjalna strona">LinkedIn</nazwa>
+        <rok_powstania jednostka="rok" źródło="Wikipedia">2003</rok_powstania>
+        <typ jednostka="brak" źródło="oficjalna strona">Profesjonalny</typ>
+        <uzytkownicy jednostka="miliony" źródło="Statista">930000000</uzytkownicy>
+    </portal>
+    <portal>
+        <nazwa jednostka="brak" źródło="oficjalna strona">TikTok</nazwa>
+        <rok_powstania jednostka="rok" źródło="Wikipedia">2016</rok_powstania>
+        <typ jednostka="brak" źródło="oficjalna strona">Wideo</typ>
+        <uzytkownicy jednostka="miliony" źródło="Statista">1000000000</uzytkownicy>
+    </portal>
+    <portal>
+        <nazwa jednostka="brak" źródło="oficjalna strona">Pinterest</nazwa>
+        <rok_powstania jednostka="rok" źródło="Wikipedia">2010</rok_powstania>
+        <typ jednostka="brak" źródło="oficjalna strona">Inspiracje</typ>
+        <uzytkownicy jednostka="miliony" źródło="Statista">450000000</uzytkownicy>
+    </portal>
+</portale_spolecznosciowe>
