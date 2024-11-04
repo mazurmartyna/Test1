@@ -1,0 +1,48 @@
+[
+    {
+        "nazwa_aplikacji": "Snapchat",
+        "ilosc_uzytkownikow_w_milionach": 406,
+        "czy_pozwala_na_dzwonienie": true,
+        "rok_powstania": 2011,
+        "kto_zalozyl": "Evan Spiegel" 
+    },
+    {
+        "nazwa_aplikacji": "BeReal",
+        "ilosc_uzytkownikow_w_milionach": 50,
+        "czy_pozwala_na_dzwonienie": false,
+        "rok_powstania": 2020,
+        "kto_zalozyl": "Alexis Barreyat" 
+    
+    },
+    {
+       
+        "nazwa_aplikacji": "Instagram",
+        "ilosc_uzytkownikow_w_milionach": 800,
+        "czy_pozwala_na_dzwonienie": true,
+        "rok_powstania": 2010,
+        "kto_zalozyl": "Kevin Systorm"  
+    },
+    {
+     
+        "nazwa_aplikacji": "Whatsapp",
+        "ilosc_uzytkownikow_w_milionach": 700,
+        "czy_pozwala_na_dzwonienie": true,
+        "rok_powstania": 2009,
+        "kto_zalozyl": "Jan Kum" 
+    },
+    {
+        
+        "nazwa_aplikacji": "Tiktok",
+        "ilosc_uzytkownikow_w_milionach": 990,
+        "czy_pozwala_na_dzwonienie": true,
+        "rok_powstania": 2016,
+        "kto_zalozyl": "Zhang Yiming" 
+    },
+    {
+        "nazwa_aplikacji": "Pinterest",
+        "ilosc_uzytkownikow_w_milionach": 522,
+        "czy_pozwala_na_dzwonienie": false,
+        "rok_powstania": 2010,
+        "kto_zalozyl": "Ben Silbermann" 
+    }
+]
