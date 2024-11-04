@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<portale_spolecznosciowe>
+    <portal>
+        <nazwa>Facebook</nazwa>
+        <rok_powstania>2004</rok_powstania>
+        <typ>Ogólny</typ>
+        <uzytkownicy>2900000000</uzytkownicy>
+    </portal>
+    <portal>
+        <nazwa>Twitter</nazwa>
+        <rok_powstania>2006</rok_powstania>
+        <typ>Microblogging</typ>
+        <uzytkownicy>450000000</uzytkownicy>
+    </portal>
+    <portal>
+        <nazwa>Instagram</nazwa>
+        <rok_powstania>2010</rok_powstania>
+        <typ>Fotografia</typ>
+        <uzytkownicy>1400000000</uzytkownicy>
+    </portal>
+    <portal>
+        <nazwa>LinkedIn</nazwa>
+        <rok_powstania>2003</rok_powstania>
+        <typ>Profesjonalny</typ>
+        <uzytkownicy>930000000</uzytkownicy>
+    </portal>
+    <portal>
+        <nazwa>TikTok</nazwa>
+        <rok_powstania>2016</rok_powstania>
+        <typ>Wideo</typ>
+        <uzytkownicy>1000000000</uzytkownicy>
+    </portal>
+    <portal>
+        <nazwa>Pinterest</nazwa>
+        <rok_powstania>2010</rok_powstania>
+        <typ>Inspiracje</typ>
+        <uzytkownicy>450000000</uzytkownicy>
+    </portal>
+</portale_spolecznosciowe>
